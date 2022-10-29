@@ -1,11 +1,7 @@
-# Sample Snack app
+# Simple Clone Instagram
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Create with React-native
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![Screenshot (160)](https://user-images.githubusercontent.com/116789509/198830737-24c57853-e94d-47d7-bfda-1c2c1f639c7f.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/116789509/198830732-63635ff1-caf9-497b-b060-0820b85bb43c.png)
+![Screenshot (163)](https://user-images.githubusercontent.com/116789509/198830734-fdbafecf-83a9-4264-b4a5-5cf2b500ba47.png)
